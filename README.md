@@ -1,18 +1,60 @@
-<font size="2"># 💫 About Me:<font size="2">
-<font size="2"># 👋 Hi, I'm Danish Minhaj<br><br>🎓 Computer Science Undergraduate | 📱 Flutter Developer | 🌐 Full-Stack Enthusiast<br><br>I'm a passionate developer focused on building scalable mobile and web apps that solve real-world problems. I specialize in **Flutter**, **Firebase**, and **full-stack tools** like **Next.js**, **Node.js**, and **React**. I enjoy learning, collaborating on innovative projects, and contributing to clean, user-friendly solutions.<br><br>---<br><br>### 🔧 Technologies & Tools<br><br>- **Languages:** Dart, JavaScript, Python, Java, C/C++, SQL  <br>- **Frontend:** Flutter, React.js, Next.js, HTML, CSS, Tailwind CSS  <br>- **Backend:** Node.js, Flask, Firebase, FastAPI  <br>- **Tools:** Git, Docker, VS Code, Arduino, Firebase, Postman  <br><br>---<br><br>### 🚀 Projects<br><br>- **[NearByU](#)** – A Flutter-based local delivery app for rural areas, featuring real-time order tracking and custom CMS built with Go.<br>- **AirGuard** – IoT-based gas/smoke detection using Arduino + Flutter for instant alerts.<br>- **Chatico** – A one-on-one real-time chat app with Firebase authentication and messaging.<br>- **Portfolio Website** – Built with Next.js and Tailwind CSS to showcase my work and journey.<br><br>---<br><br>### 📈 GitHub Stats<br><br>![Danish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danish0minhaj&show_icons=true&theme=radical)<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danish0minhaj&layout=compact&theme=radical)<br><br>---<br><br>### 📫 Connect with Me<br><br>- 📧 Email: danishminhaj367@gmail.com  <br>- 💼 LinkedIn: [linkedin.com/in/danishminhaj](https://linkedin.com/in/danishminhaj)  <br>- 🌐 Portfolio: [Coming Soon]  <br><br>Thanks for visiting! 🙌<br><br></font></font></font>
+# Danish Minhaj
+### Computer Science Undergraduate | Flutter & Full-Stack Developer
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=5C6BC0&center=true&vCenter=true&width=500&lines=Flutter+Developer;Full-Stack+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/danish____minhaj/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nkedin.com/in/danishminhaj/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danishminhaj367@gmail.com) 
+## 🛠 Technical Stack
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Danish0minhaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Danish0minhaj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Danish0minhaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Languages
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Danish0minhaj&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### Frontend
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Backend & Cloud
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+## 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **[NearByU](https://github.com/Danish0minhaj/NearByU)** | Local delivery app for rural areas | Flutter, Firebase, Go |
+| **AirGuard** | IoT gas/smoke detection system | Arduino, Flutter |
+| **Chatico** | Real-time chat application | Firebase, Flutter |
+| **Portfolio** | Developer portfolio website | Next.js, Tailwind CSS |
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Danish0minhaj&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danish0minhaj&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
+</div>
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:danishminhaj367@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/danishminhaj">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/danish____minhaj">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Danish0minhaj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
